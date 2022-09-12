@@ -1,5 +1,5 @@
 //               0       1        2          3      4
-let alunos = ['Luiz', 'Maria', 'João']; // Luiza, Eduardo 
+let alunos = ["Luiz", "Maria", "João"]; // Luiza, Eduardo
 alunos = 123;
 
 console.log(typeof alunos);
@@ -22,7 +22,6 @@ console.log(alunos instanceof Array);
 // alunos.unshift('Fábio'); // Adiciona no começo
 // alunos.unshift('Luiza');
 
-
 // alunos.push('Luiza'); // Adiciona no fim
 // alunos.push('Fábio');
 
@@ -36,3 +35,5 @@ console.log(alunos instanceof Array);
 // console.log(alunos);
 // console.log(alunos[0]);
 // console.log(alunos[2]);
+
+// shift, pop, remove, push -> metodos mais utilizados no js
